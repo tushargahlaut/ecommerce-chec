@@ -8,11 +8,11 @@ import {commerce} from "../../../lib/commerce"
 
 const steps = ["Shipping Address","Payment Details"]
 
-const Confirmation = () => (
-    <div>   
-        Confirmation
-    </div>
-);
+// const Confirmation = () => (
+//     <div>   
+//         Confirmation
+//     </div>
+// );
 
 const Checkout = ({cart,order,onCaptureCheckout,error}) => {
     const [checkoutToken,setCheckoutToken] = useState(null);
