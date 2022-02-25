@@ -1,3 +1,13 @@
+# E Commerce App 
+
+## Using Chec as backend service
+
+## Uses Material UI Components
+
+ Will Integrate Stripe Payment system Soon! 
+
+https://ecommercebytushar121.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
