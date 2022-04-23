@@ -1,5 +1,7 @@
 # E Commerce App 
 
+# Please Checkout my repos ecommerce backend and frontend if you're interested in a Full Stack Version of Ecommerce App
+
 ## Using Chec as backend service
 
 ## Uses Material UI Components
